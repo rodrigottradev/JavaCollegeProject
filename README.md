@@ -10,7 +10,7 @@ This project was made for POO subject in Informatic Engineering. I am sharing it
 - All the POO basics implemented, you will find examples of abstraction, inheritance, encapsulation, and polymorphism.
 - Customized events and exceptions
 
-### What I will add (just for fun :smile: and learning)
+### What I will add (just for improving my skills with Java)
 
 - Refactor
 - Asynchronous features.
