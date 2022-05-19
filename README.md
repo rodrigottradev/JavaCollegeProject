@@ -15,4 +15,4 @@ This project was made for POO subject in Informatic Engineering. I am sharing it
 - Refactor
 - Asynchronous features.
 - Data Base connection, since now it is all on memory.
-- Improvements in interface, above all in administration panel (I built it in less than an hour because I had to deliver the project to the college... luckily I didn't broke anything :laughing:)
+- Improvements in interface, above all in administration panel (I built it in less than an hour because I had to deliver the project to the college... luckily I didn't broke anything)
